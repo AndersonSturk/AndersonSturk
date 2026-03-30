@@ -1,7 +1,7 @@
 # 👁️ DOSSIÊ DE INVESTIGADOR: ANDERSON 👁️
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnandS12/Ordem-Paranormal-Wiki-Assets/main/Simbolos/Conhecimento.png" width="150" alt="Símbolo de Conhecimento">
+  <img src="https://i.imgur.com/uR6G7Cj.png" width="150" alt="Símbolo de Conhecimento - Ordem Paranormal">
 </p>
 
 ---
@@ -14,13 +14,14 @@
 
 ---
 
-### 📂 PROJETOS CLASSIFICADOS (ARQUIVO S)
+### 📂 ARQUIVOS CLASSIFICADOS (PROJETOS DE ALTO IMPACTO)
 
-> #### **[PROTOCOLO: NÚCLEO PCP - LUCABE]**
-> * **DESCRIÇÃO:** Uma estrutura monolítica de contenção com 3.808 linhas de código. Projetada para mapear, calcular e rastrear o fluxo de matéria-prima em ambiente industrial hostil. O sistema atua como o cérebro da operação, impedindo o caos logístico através de algoritmos de precisão.
-> * **PROTEÇÃO:** Criptografia JWT de nível militar e barreiras CSRF.
+> #### **[PROTOCOLO: NÚCLEO PCP-SERVO]**
+> * **NATUREZA:** Estrutura de Contenção de Dados e Gestão Industrial.
+> * **RELATÓRIO DE CAMPO:** Este sistema foi desenvolvido para erradicar o caos logístico na Lucabe. Ele atua como um "Cérebro Digital", mapeando cada grama de matéria-prima e prevendo falhas antes que ocorram.
+> * **SEGURANÇA:** Barreiras de Criptografia JWT e Selos de Proteção CSRF.
 > * **LAUDO TÉCNICO:** 🟢 **AUDITADO E VALIDADO (ESTABILIDADE: 9.0)**
-> * **STATUS:** Ativo e Operacional em ambiente real.
+> * **STATUS:** Operacional em Ambiente Real.
 
 ---
 
@@ -43,7 +44,7 @@
 
 ---
 
-### 🎸 REGISTROS PESSOAIS (OUTRO LADO)
+### 🎸 REGISTROS FORA DA ORDEM
 * 🪕 Invocando rituais sonoros no violão (Vibe Rock/Acoustic).
 * 🎮 Combatendo entidades em Los Santos e Clone Hero.
 * 🎲 Mestre de Cerimônias em mesas de **Ordem Paranormal**.
