@@ -1,8 +1,6 @@
 # 👁️ DOSSIÊ DE INVESTIGADOR: ANDERSON 👁️
 
 <p align="center">
-  <img src="https://f.f-list.net/323381/1701389748.png" width="180" style="border-radius: 50%; border: 2px solid #E8C127;">
-  <br>
   <em>"Saber é Poder. O Medo é Necessário."</em>
 </p>
 
