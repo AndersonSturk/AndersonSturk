@@ -1,7 +1,9 @@
 # 👁️ DOSSIÊ DE INVESTIGADOR: ANDERSON 👁️
 
 <p align="center">
-  <img src="./conhecimento.png" width="150" alt="Símbolo de Conhecimento - Ordem Paranormal">
+  <img src="https://img.icons8.com/ios-filled/150/FFD700/eye-checked.png" width="120" alt="Ordo Realitas">
+  <br>
+  <em>"Saber é Poder. O Medo é Necessário."</em>
 </p>
 
 ---
@@ -9,7 +11,7 @@
 ### 📜 STATUS DO AGENTE
 **NOME:** Anderson  
 **CLASSE:** Especialista (Full-Stack Developer)  
-**NEX:** 70% (3º Semestre ADS)  
+**NEX:** 70% (**3º Semestre ADS**)  
 **AFINIDADE:** **🟡 Conhecimento** (Decifrando a lógica do Outro Lado)
 
 ---
@@ -19,7 +21,7 @@
 > #### **[PROTOCOLO: NÚCLEO PCP-SERVO]**
 > * **NATUREZA:** Estrutura Complexa de Gestão Industrial e Contenção de Dados.
 > * **ARQUITETURA:** Monólito Robusto purificado em Node.js e SQL.
-> * **RELATÓRIO DE CAMPO:** Este sistema foi projetado para erradicar o caos logístico, atuando como um "Cérebro Digital" que mapeia o fluxo de matéria-prima e antecipa falhas operacionais. Uma solução de engenharia social e técnica aplicada ao mundo real.
+> * **RELATÓRIO DE CAMPO:** Este sistema foi projetado para erradicar o caos logístico, atuando como um "Cérebro Digital" que mapeia o fluxo de matéria-prima e antecipa falhas operacionais. Uma solução de engenharia técnica aplicada ao mundo real com mais de 5.800 linhas de lógica pura.
 > * **SEGURANÇA:** Criptografia JWT de elite e Selos de Proteção CSRF.
 > * **LAUDO TÉCNICO:** 🟢 **AUDITADO E VALIDADO (ESTABILIDADE: 9.0)**
 > * **STATUS:** Operacional e em Expansão.
@@ -45,7 +47,7 @@
 
 ---
 
-### 🎸 REGISTROS FORA DA ORDEM
+### 🎸 REGISTROS PESSOAIS
 * 🪕 Invocando rituais sonoros no violão (Vibe Rock/Acoustic).
 * 🎮 Combatendo entidades em Los Santos e Clone Hero.
 * 🎲 Mestre de Cerimônias em mesas de **Ordem Paranormal**.
@@ -53,6 +55,6 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SABER-É_PODER-gold?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/O_MEDO-É_NECESSÁRIO-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ORDO_REALITAS-SABER_É_PODER-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SENHOR_VERÍSSIMO-APROVA-red?style=for-the-badge" />
 </p>
