@@ -15,9 +15,9 @@
 ### 📂 ARQUIVOS CLASSIFICADOS (PROJETOS DE ALTO IMPACTO)
 
 #### 🗄️ [PROTOCOLO: NÚCLEO PCP-SERVO]
-* **NATUREZA:** Estrutura Complexa de Gestão Industrial.
-* **ARQUITETURA:** Monólito Robusto desenvolvido em Node.js e SQL.
-* **RELATÓRIO DE CAMPO:** Sistema de missão crítica projetado para erradicar o caos logístico na Lucabe. Atua como um Cérebro Digital mapeando o fluxo de matéria-prima.
+* **NATUREZA:** Estrutura Complexa de Gestão Industrial e Contenção de Dados.
+* **ARQUITETURA:** Monólito Robusto purificado em Node.js e SQL.
+* **RELATÓRIO DE CAMPO:** Este sistema foi projetado para erradicar o caos logístico, atuando como um "Cérebro Digital" que mapeia o fluxo de matéria-prima e antecipa falhas operacionais.
 * **SEGURANÇA:** Criptografia JWT de elite e Selos de Proteção CSRF.
 * **LAUDO TÉCNICO:** 🟢 **AUDITADO E VALIDADO (ESTABILIDADE: 9.0)**
 * **STATUS:** Operacional e em Expansão.
@@ -30,8 +30,8 @@
 | :--- | :--- |
 | **🟡 CONHECIMENTO** | SQL, MySQL, Oracle, Modelagem de Dados |
 | **⚡ ENERGIA** | JavaScript (ES6+), HTML5, CSS3, AI Media Gen |
-| **🩸 SANGUE** | Node.js, Express, Bcrypt, JWT |
-| **🌑 MORTE** | Git, GitHub, Automação, Auditoria |
+| **🩸 SANGUE** | Node.js, Express, Bcrypt (Hash de Almas), JWT |
+| **🌑 MORTE** | Git, GitHub, Automação de Infraestrutura, Auditoria |
 
 ---
 
@@ -44,5 +44,5 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/ORDO_REALITAS-SABER_É_PODER-gold?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SENHOR_VERÍSSIMO-APROVA-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SABER_TUDO-É_PERDER_TUDO-red?style=for-the-badge" />
 </p>
