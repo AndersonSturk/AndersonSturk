@@ -1,64 +1,77 @@
 # 👁️ DOSSIÊ DE INVESTIGADOR: ANDERSON 👁️
 
 <p align="center">
-  <em>"Saber é Poder. O Medo é Necessário."</em>
+  <img src="./verissimo.png" width="180" style="border-radius: 50%; border: 5px solid #E8C127; box-shadow: 0 0 20px #E8C127;">
+  <br>
+  <b>"Saber é Poder. O Medo é Necessário."</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-AGENTE_DE_ELITE-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AFINIDADE-CONHECIMENTO-yellow?style=for-the-badge" />
 </p>
 
 ---
 
-### 📜 STATUS DO AGENTE
+### 📜 FICHA DE PERSONAGEM
 **NOME:** Anderson  
 **CLASSE:** Especialista (Full-Stack Developer)  
-**NEX:** 70% (**3º Semestre ADS**)  
-**AFINIDADE:** **🟡 Conhecimento**
+**NEX (Nível de Exposição):** 🟢🟢🟢⚪⚪ **70% (3º Semestre ADS)** **LOCALIZAÇÃO:** Base de Operações (Osasco, SP)
 
-#### 📊 ATRIBUTOS DE INVESTIGADOR
-| Atributo | Nível | Representação |
+#### 📊 ATRIBUTOS DO AGENTE
+| Atributo | Nível | Especialidade |
 | :--- | :--- | :--- |
-| **INTELIGÊNCIA** | 🟦🟦🟦🟦⬜ | Lógica de Sistemas e 5.8k linhas de código |
-| **VIGOR** | 🟦🟦🟦⬜⬜ | Resistência em ambientes de produção real |
-| **PRESENÇA** | 🟦🟦🟦🟦⬜ | Auditado e aprovado com nota 9.0 |
-| **AGILIDADE** | 🟦🟦⬜⬜⬜ | Debugging e Refatoração constante |
+| **INTELIGÊNCIA (INT)** | 🟦🟦🟦🟦🟦 | Lógica, SQL e Arquitetura de Sistemas |
+| **VIGOR (VIG)** | 🟦🟦🟦🟦⬜ | Manutenção de 5.8k+ linhas de código |
+| **PRESENÇA (PRE)** | 🟦🟦🟦⬜⬜ | Auditoria nota 9.0 e Liderança de Projeto |
+| **AGILIDADE (AGI)** | 🟦🟦🟦⬜⬜ | Resolução de Bugs em Tempo Real |
 
 ---
 
-### 📂 ARQUIVOS CLASSIFICADOS (PROJETOS)
+### 📂 ARQUIVOS SIGILOSOS (PROJETOS DE CAMPO)
 
 <details>
-<summary>📑 <b>[PROTOCOLO: NÚCLEO PCP-SERVO]</b> (Clique para expandir)</summary>
+<summary>📑 <b>[ABRIR PROTOCOLO: NÚCLEO PCP-SERVO]</b></summary>
 
-* **NATUREZA:** Estrutura Complexa de Gestão Industrial.
-* **ARQUITETURA:** Monólito Robusto purificado em Node.js e SQL.
-* **RELATÓRIO DE CAMPO:** Este sistema foi projetado para erradicar o caos logístico na Lucabe. Atua como um "Cérebro Digital" mapeando o fluxo de matéria-prima.
-* **MÉTRICAS:** Mais de 5.800 linhas de lógica pura distribuídas entre `server.js` e `processos.js`.
-* **LAUDO TÉCNICO:** 🟢 **AUDITADO E VALIDADO (ESTABILIDADE: 9.0)**
+> **RELATÓRIO TÉCNICO:** > Uma estrutura de contenção industrial massiva. Este sistema atua como o **Cérebro Digital** da Lucabe, erradicando o caos logístico através de algoritmos de precisão.
+> 
+> * **TECNOLOGIAS:** Node.js, Express, MySQL, Oracle.
+> * **SEGURANÇA:** Implementação de rituais JWT e selos de proteção CSRF.
+> * **VOLUME:** Mais de 5.800 linhas purificadas e funcionais.
 </details>
 
 <details>
-<summary>📑 <b>[EQUIPAMENTOS DE INVESTIGAÇÃO]</b> (Setup)</summary>
+<summary>📑 <b>[INVENTÁRIO DE EQUIPAMENTOS]</b></summary>
 
-* **RELÍQUIA DE PROCESSAMENTO:** PC High-End (RTX 4060 Ti / Ryzen 5 5600GT).
-* **INTERFACE VISUAL:** Monitor de alta fidelidade para análise de logs.
-* **SISTEMA DE ENTRADA:** Periféricos mecânicos para invocação rápida de código.
+* **RELÍQUIA DE PROCESSAMENTO:** Estação de trabalho RTX 4060 Ti | Ryzen 5 5600GT.
+* **MODIFICADORES VISUAIS:** VS Code (Tema Dark/Aesthetic) e ComfyUI (Flux/SD).
 </details>
 
 ---
 
 ### 🔮 RITUAIS DE DESENVOLVIMENTO (TECH STACK)
 
-| Elemento | Ferramentas de Invocação |
+| Elemento | Ritual (Tecnologia) |
 | :--- | :--- |
-| **🟡 CONHECIMENTO** | SQL, MySQL, Oracle, Modelagem de Dados |
-| **⚡ ENERGIA** | JavaScript, HTML5, CSS3, AI Media Gen (ComfyUI) |
-| **🩸 SANGUE** | Node.js, Express, Bcrypt, Autenticação JWT |
-| **🌑 MORTE** | Git, GitHub, Automação de Infraestrutura |
+| **🟡 CONHECIMENTO** | SQL (MySQL/Oracle), Database Design, Data Mapping |
+| **⚡ ENERGIA** | JavaScript (ES6+), HTML5, CSS3, AI Generation |
+| **🩸 SANGUE** | Backend (Node.js), Express, Bcrypt (Hash de Almas) |
+| **🌑 MORTE** | Versionamento (Git/GitHub), Auditoria, Infraestrutura |
 
 ---
 
-### 🎸 REGISTROS PESSOAIS (FORA DA ORDEM)
-* 🪕 **Frequência Sonora:** Invocando acordes no violão (Vibe Rock/Acoustic).
-* 🎮 **Simulações de Combate:** Los Santos e sessões intensas de Clone Hero.
-* 🎲 **Mestre de Cerimônias:** Narrando horrores em mesas de **Ordem Paranormal**.
+### 🎸 REGISTROS DE FREQUÊNCIA (FORA DA ORDEM)
+* 🪕 **Rituais Acústicos:** Invocando acordes no violão (Folk/Rock Vibe).
+* 🎮 **Simulações de Combate:** Treinamento em Los Santos e Clone Hero.
+* 🎲 **Mestre do Medo:** Narrador de campanhas de **Ordem Paranormal**.
+
+---
+
+### 📡 CANAIS DE COMUNICAÇÃO DA ORDEM
+<p align="left">
+<a href="LINK_DO_SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -68,5 +81,5 @@
 </p>
 
 <p align="center">
-  <em>Dossiê selado sob os termos da Ordo Realitas.</em>
+  <em>Dossiê selado sob os termos da Ordo Realitas. <br> <b>Acesso restrito a Agentes Autorizados.</b></em>
 </p>
