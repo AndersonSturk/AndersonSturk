@@ -35,7 +35,6 @@
 > 
 > * **TECNOLOGIAS:** Node.js, Express, MySQL, Oracle.
 > * **SEGURANÇA:** Implementação de rituais JWT e selos de proteção CSRF.
-> * **VOLUME:** Mais de 5.800 linhas purificadas e funcionais.
 </details>
 
 <details>
