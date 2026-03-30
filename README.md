@@ -1,46 +1,48 @@
 # 👁️ DOSSIÊ DE INVESTIGADOR: ANDERSON 👁️
 
 <p align="center">
+  <img src="./verissimo.png" width="180" style="border-radius: 50%; border: 5px solid #E8C127; box-shadow: 0 0 20px #E8C127;">
+  <br>
   <b>"Saber é Poder. O Medo é Necessário."</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-AGENTE_DE_ELITE-gold?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AFINIDADE-CONHECIMENTO-yellow?style=for-the-badge" />
 </p>
 
 ---
 
-### 📜 FICHA DE PERSONAGEM
+### 📜 STATUS DO AGENTE
 **NOME:** Anderson  
 **CLASSE:** Especialista (Full-Stack Developer)  
-**NEX (Nível de Exposição):** 🟢🟢🟢⚪⚪ **70% (3º Semestre ADS)** **LOCALIZAÇÃO:** Base de Operações (Osasco, SP)
+**NEX:** 🟢🟢🟢⚪⚪ **70% (3º Semestre ADS)** **AFINIDADE:** **🟡 Conhecimento** (Decifrando a lógica do Outro Lado)
 
 #### 📊 ATRIBUTOS DO AGENTE
 | Atributo | Nível | Especialidade |
 | :--- | :--- | :--- |
-| **INTELIGÊNCIA (INT)** | 🟦🟦🟦🟦🟦 | Lógica, SQL e Arquitetura de Sistemas |
-| **VIGOR (VIG)** | 🟦🟦🟦🟦⬜ | Manutenção de 5.8k+ linhas de código |
-| **PRESENÇA (PRE)** | 🟦🟦🟦⬜⬜ | Auditoria nota 9.0 e Liderança de Projeto |
-| **AGILIDADE (AGI)** | 🟦🟦🟦⬜⬜ | Resolução de Bugs em Tempo Real |
+| **INTELIGÊNCIA** | 🟦🟦🟦🟦🟦 | Arquitetura SQL e Lógica de Negócio |
+| **VIGOR** | 🟦🟦🟦🟦⬜ | Resiliência em Ambientes de Produção |
+| **PRESENÇA** | 🟦🟦🟦⬜⬜ | Auditoria e Validação de Sistemas |
+| **AGILIDADE** | 🟦🟦🟦⬜⬜ | Debugging e Refatoração de Código |
 
 ---
 
-### 📂 ARQUIVOS SIGILOSOS (PROJETOS DE CAMPO)
+### 📂 ARQUIVOS CLASSIFICADOS (PROJETOS DE ALTO IMPACTO)
 
-<details>
-<summary>📑 <b>[ABRIR PROTOCOLO: NÚCLEO PCP-SERVO]</b></summary>
+<details open>
+<summary>📑 <b>[PROTOCOLO: NÚCLEO PCP-SERVO]</b></summary>
 
-> **RELATÓRIO TÉCNICO:** > Uma estrutura de contenção industrial massiva. Este sistema atua como o **Cérebro Digital** da Lucabe, erradicando o caos logístico através de algoritmos de precisão.
+> **RELATÓRIO DE CAMPO:** > Uma estrutura de contenção industrial massiva projetada para a **Lucabe**. Este sistema atua como o "Cérebro Digital" da operação, erradicando falhas manuais e unificando o fluxo de dados em um ambiente hostil de produção.
 > 
-> * **TECNOLOGIAS:** Node.js, Express, MySQL, Oracle.
-> * **SEGURANÇA:** Implementação de rituais JWT e selos de proteção CSRF.
+> **MÓDULOS DE OPERAÇÃO:**
+> * **🧠 Gestão de Matéria-Prima:** Algoritmos de rastreio em tempo real para controle de insumos.
+> * **⚡ Fluxo de Produção:** Automação de processos que antes dependiam de intervenção humana.
+> * **🩸 Segurança de Dados:** Implementação de rituais JWT (JSON Web Tokens) e barreiras CSRF para proteção de informações críticas.
+> * **🌑 Persistência:** Arquitetura SQL robusta (MySQL/Oracle) para integridade total dos registros.
+> 
+> **LAUDO TÉCNICO:** 🟢 **AUDITADO E VALIDADO (ESTABILIDADE: 9.0)**
 </details>
 
 <details>
 <summary>📑 <b>[INVENTÁRIO DE EQUIPAMENTOS]</b></summary>
 
-* **RELÍQUIA DE PROCESSAMENTO:** Estação de trabalho RTX 4060 Ti | Ryzen 5 5600GT.
+* **RELÍQUIA DE PROCESSAMENTO:** RTX 4060 Ti | Ryzen 5 5600GT.
 * **MODIFICADORES VISUAIS:** VS Code (Tema Dark/Aesthetic) e ComfyUI (Flux/SD).
 </details>
 
@@ -50,17 +52,17 @@
 
 | Elemento | Ritual (Tecnologia) |
 | :--- | :--- |
-| **🟡 CONHECIMENTO** | SQL (MySQL/Oracle), Database Design, Data Mapping |
-| **⚡ ENERGIA** | JavaScript (ES6+), HTML5, CSS3, AI Generation |
-| **🩸 SANGUE** | Backend (Node.js), Express, Bcrypt (Hash de Almas) |
-| **🌑 MORTE** | Versionamento (Git/GitHub), Auditoria, Infraestrutura |
+| **🟡 CONHECIMENTO** | SQL (MySQL/Oracle), Database Design, Modelagem |
+| **⚡ ENERGIA** | JavaScript (ES6+), HTML5, CSS3, AI Media Gen |
+| **🩸 SANGUE** | Backend (Node.js), Express, Bcrypt, Autenticação |
+| **🌑 MORTE** | Versionamento (Git/GitHub), Automação de Infra |
 
 ---
 
-### 🎸 REGISTROS DE FREQUÊNCIA (FORA DA ORDEM)
-* 🪕 **Rituais Acústicos:** Invocando acordes no violão (Folk/Rock Vibe).
-* 🎮 **Simulações de Combate:** Treinamento em Los Santos e Clone Hero.
-* 🎲 **Mestre do Medo:** Narrador de campanhas de **Ordem Paranormal**.
+### 🐍 RASTRO DE MORTE (ATIVIDADE)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/AndersonSturk/AndersonSturk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
