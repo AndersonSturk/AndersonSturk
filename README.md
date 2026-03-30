@@ -1,8 +1,6 @@
 # 👁️ DOSSIÊ DE INVESTIGADOR: ANDERSON 👁️
 
 <p align="center">
-  <img src="./verissimo.png" width="180" style="border-radius: 50%; border: 5px solid #E8C127; box-shadow: 0 0 20px #E8C127;">
-  <br>
   <b>"Saber é Poder. O Medo é Necessário."</b>
 </p>
 
