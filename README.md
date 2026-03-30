@@ -1,7 +1,7 @@
 # 👁️ DOSSIÊ DE INVESTIGADOR: ANDERSON 👁️
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andruudomingues/sigils/main/conhecimento.png" width="150" alt="Símbolo de Conhecimento">
+  <img src="https://raw.githubusercontent.com/AnandS12/Ordem-Paranormal-Wiki-Assets/main/Simbolos/Conhecimento.png" width="150" alt="Símbolo de Conhecimento">
 </p>
 
 ---
@@ -9,50 +9,48 @@
 ### 📜 STATUS DO AGENTE
 **NOME:** Anderson  
 **CLASSE:** Especialista (Full-Stack Developer)  
-**NEX:** 65% (3º Semestre ADS)  
-**LOCALIZAÇÃO:** [SPO - Brasil]  
-**AFINIDADE:** **Conhecimento** (Análise de Dados e Lógica de Sistemas)
+**NEX:** 65% (2º Semestre ADS)  
+**AFINIDADE:** **🟡 Conhecimento** (Decifrando a lógica do Outro Lado)
 
 ---
 
-### 📂 CASOS ARQUIVADOS (PROJETOS)
+### 📂 PROJETOS CLASSIFICADOS (ARQUIVO S)
 
-> #### **[CASO #001: SISTEMA PCP LUCABE]**
-> * **DESCRIÇÃO:** Um monólito de 3.808 linhas projetado para conter o caos na produção industrial.
-> * **ELEMENTOS UTILIZADOS:** Node.js, MySQL, JWT, CSRF Protection.
-> * **CLASSIFAÇÃO:** 🟢 **APROVADO EM AUDITORIA (NOTA 9.0)**
-> * **STATUS:** Em uso real (Produção).
+> #### **[PROTOCOLO: NÚCLEO PCP - LUCABE]**
+> * **DESCRIÇÃO:** Uma estrutura monolítica de contenção com 3.808 linhas de código. Projetada para mapear, calcular e rastrear o fluxo de matéria-prima em ambiente industrial hostil. O sistema atua como o cérebro da operação, impedindo o caos logístico através de algoritmos de precisão.
+> * **PROTEÇÃO:** Criptografia JWT de nível militar e barreiras CSRF.
+> * **LAUDO TÉCNICO:** 🟢 **AUDITADO E VALIDADO (ESTABILIDADE: 9.0)**
+> * **STATUS:** Ativo e Operacional em ambiente real.
 
 ---
 
-### 🔮 RITUAIS CONHECIDOS (TECH STACK)
+### 🔮 RITUAIS DE DESENVOLVIMENTO (TECH STACK)
 
-| Elemento | Tecnologias |
+| Elemento | Ferramentas de Invocação |
 | :--- | :--- |
-| **🟡 CONHECIMENTO** | SQL, MySQL, Oracle, Estrutura de Dados |
+| **🟡 CONHECIMENTO** | SQL, MySQL, Oracle, Modelagem de Dados |
 | **⚡ ENERGIA** | JavaScript (ES6+), HTML5, CSS3, ComfyUI, Flux |
-| **🩸 SANGUE** | Node.js, Express, Autenticação, Criptografia |
-| **🌑 MORTE** | Git, GitHub, Deploy, Auditoria de Segurança |
+| **🩸 SANGUE** | Node.js, Express, Bcrypt (Hash de Almas), JWT |
+| **🌑 MORTE** | Git, GitHub, Automação de Backups, Auditoria |
 
 ---
 
-### 📊 MEDIDOR DE EXPOSIÇÃO (STATS)
+### 📊 EXPOSIÇÃO AO PARANORMAL (STATS)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndersonSturk&show_icons=true&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=E8C127&icon_color=E8C127&text_color=ffffff" alt="Stats do Anderson" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=E8C127&icon_color=E8C127&text_color=ffffff" alt="Stats do Anderson" />
 </p>
 
 ---
 
-### 🎸 FORA DA ORDEM
-Quando não estou combatendo bugs paranormais ou calculando BOM, estou:
-* 🪕 Invocando acordes no meu violão (Vibe Rock/Acoustic).
-* 🎮 Sobrevivendo em Los Santos ou calibrando o Clone Hero.
-* 🎲 Mestrando mesas de **Ordem Paranormal** para amigos.
+### 🎸 REGISTROS PESSOAIS (OUTRO LADO)
+* 🪕 Invocando rituais sonoros no violão (Vibe Rock/Acoustic).
+* 🎮 Combatendo entidades em Los Santos e Clone Hero.
+* 🎲 Mestre de Cerimônias em mesas de **Ordem Paranormal**.
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SABER-É_PODER-gold?style=for-the-badge&logo=ops" />
-  <img src="https://img.shields.io/badge/MEDO-É_NECESSÁRIO-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SABER-É_PODER-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/O_MEDO-É_NECESSÁRIO-red?style=for-the-badge" />
 </p>
