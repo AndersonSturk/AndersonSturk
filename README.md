@@ -19,7 +19,7 @@
 | **INTELIGÊNCIA** | 🟦🟦🟦🟦🟦 | Arquitetura SQL e Lógica de Negócio |
 | **VIGOR** | 🟦🟦🟦🟦⬜ | Resiliência em Ambientes de Produção |
 | **PRESENÇA** | 🟦🟦🟦⬜⬜ | Auditoria e Validação de Sistemas |
-| **AGILIDADE** | 🟦🟦🟦⬜⬜ | Debugging e Refatoração de Código |
+| **AGILIDADE** | 🟦🟦🟦⬜⬜ | Resolução de Bugs em Tempo Real |
 
 ---
 
@@ -59,10 +59,10 @@
 
 ---
 
-### 🐍 RASTRO DE MORTE (ATIVIDADE)
-<p align="left">
-  <img src="https://raw.githubusercontent.com/AndersonSturk/AndersonSturk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+### 🎸 REGISTROS DE FREQUÊNCIA (FORA DA ORDEM)
+* 🪕 **Rituais Acústicos:** Invocando acordes no violão (Folk/Rock Vibe).
+* 🎮 **Simulações de Combate:** Treinamento em Los Santos e Clone Hero.
+* 🎲 **Mestre do Medo:** Narrador de campanhas de **Ordem Paranormal**.
 
 ---
 
