@@ -43,7 +43,7 @@
 <summary>📑 <b>[INVENTÁRIO DE EQUIPAMENTOS]</b></summary>
 
 * **RELÍQUIA DE PROCESSAMENTO:** RTX 4060 Ti | Ryzen 5 5600GT.
-* **MODIFICADORES VISUAIS:** VS Code (Tema Dark/Aesthetic) e ComfyUI (Flux/SD).
+* **MODIFICADORES VISUAIS:** VS Code, mySQL e ComfyUI (Flux/SD).
 </details>
 
 ---
